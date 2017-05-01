@@ -1,7 +1,7 @@
 # W266_project_code
-Repository of code for the W266 final project.
+Repository of code for the W266 final project Mapping Satirical Articles to Source Event Article.
 
-Main notebook where the analysis was done is titled: Title_Analyses
+Main notebook where the analysis was done is titled: Title_Analysis
 
 There are three other python scripts which was used for data extraction and cleaning. More details are included as comments in the python scripts themselves.
   - Event_Registry.py (Extracts data from Event Registry)
